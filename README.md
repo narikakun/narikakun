@@ -1,3 +1,10 @@
+# Hi, I'm narikakun!
+
+## いつもしていること
+
+いつもは、[ブログ](https://narikakun.net/)書いたりDorayakingBot(DiscordBot)を作ったりしています。
+基本プライベートレポジトリですが、たまに公開してるものもあります。
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=narikakun)](https://github.com/narikakun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narikakun&layout=compact)](https://github.com/narikakun) 
 <!--
 **narikakun/narikakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
