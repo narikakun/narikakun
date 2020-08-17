@@ -2,7 +2,8 @@
 
 ## いつもしていること
 
-いつもは、[ブログ](https://narikakun.net/)書いたりDorayakingBot(DiscordBot)を作ったりしています。
+いつもは、[ブログ](https://narikakun.net/)書いたり[DorayakingBot(DiscordBot)](https://discord.com/oauth2/authorize?client_id=508166063473688577&permissions=66321471&scope=bot)を作ったりしています。
+
 基本プライベートレポジトリですが、たまに公開してるものもあります。
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=narikakun)](https://github.com/narikakun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narikakun&layout=compact)](https://github.com/narikakun) 
