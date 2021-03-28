@@ -1,6 +1,6 @@
 # Hi, I'm narikakun!
 
-## いつもしていること
+## - いつもしていること -
 
 いつもは、[ブログ](https://narikakun.net/)書いたり[DorayakingBot(DiscordBot)](https://discord.com/oauth2/authorize?client_id=508166063473688577&permissions=66321471&scope=bot)を作ったりしています。
 
