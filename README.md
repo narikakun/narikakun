@@ -6,4 +6,4 @@
 
 基本プライベートレポジトリですが、たまに公開してるものもあります。
 
-連絡は、Twitter DMか、narikakun@gmail.comまでお願いします。
+連絡は、Twitter DMまたはnarikakun@gmail.comまでお願いします。
